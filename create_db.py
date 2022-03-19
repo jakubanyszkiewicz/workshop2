@@ -17,7 +17,7 @@ CREATE_MESSAGES_TABLE = """CREATE TABLE messages(
     creation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP)"""
 
 DB_USER = "postgres"
-DB_PASSWORD = "Paszacsgo12"
+DB_PASSWORD = "coderslab"
 DB_HOST = "127.0.0.1"
 
 try:
